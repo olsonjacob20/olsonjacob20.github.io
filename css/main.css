@@ -46,6 +46,8 @@
 
 hr.color-line{width: 75px; border-top: 3px solid #663399; text-align: left; margin-left: 0}
 
+.color-circle{color: #663399;}
+
 /* ==========================================================================
     02. DEFAULT CSS
 ========================================================================== */
@@ -543,7 +545,7 @@ header {
 
 .about_info .social_links {
     display: inline-block;
-    margin-top: 25px;
+    
 }
 
 .about_info h4 {
